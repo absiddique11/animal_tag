@@ -1,0 +1,1 @@
+PYTHONWARNINGS="ignore" python3 train_and_infer_v8.py

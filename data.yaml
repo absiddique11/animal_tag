@@ -1,0 +1,9 @@
+train: /home/mdabubakrsiddique/Documents/animal_tag/dataset/images/train
+val: /home/mdabubakrsiddique/Documents/animal_tag/dataset/images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['tag', 'notag']
+
